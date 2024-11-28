@@ -1,6 +1,6 @@
 # Benchmarking Distributional Alignment of Large Language Models
 
-### [Paper (arxiv)](TODO) | [OpenReview](TODO)
+### [Paper (arxiv)](https://arxiv.org/pdf/2411.05403) | [Tweet](https://x.com/nicole__meister/status/1856446530837975453)
 
 ![](benchmarking_pipeline.png)
 
@@ -41,6 +41,13 @@ We provide an example job script ```job.sh``` that contains the file execution o
 
 
 ```bibtex
-    @Article{TODO
-    }
+    @misc{meister2024benchmarkingdistributionalalignmentlarge,
+      title={Benchmarking Distributional Alignment of Large Language Models}, 
+      author={Nicole Meister and Carlos Guestrin and Tatsunori Hashimoto},
+      year={2024},
+      eprint={2411.05403},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.05403}, 
+}
 ```
